@@ -1,4 +1,4 @@
-# A blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger.
+# How to build a blazing fast GraphQL API with Node.js, MongoDB and Fastify!
 
 > A Node.js project
 
